@@ -1,0 +1,27 @@
+{
+  "name": "node-paypal",
+  "version": "1.0.0",
+  "description": "A opensource and community maintained paypal wrapper for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SticksDev/node-paypal.git"
+  },
+  "keywords": [
+    "paypal",
+    "node",
+    "pay"
+  ],
+  "author": "SticksDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SticksDev/node-paypal/issues"
+  },
+  "homepage": "https://github.com/SticksDev/node-paypal#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
